@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(42, 42, 42);
+    color: rgba(230, 210, 210, 0.99);
+}
+
+#one, #two, .three, .four {
+    color: rgba(197, 174, 255, 0.99)
+}
+
+code {
+    background-color: black;
+    border-radius: 5%;
+}

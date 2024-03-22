@@ -3,19 +3,15 @@ body {
     color: rgba(230, 210, 210, 0.99);
 }
 
-#one, #two, .three, .four {
-    color: rgba(197, 174, 255, 0.99)
-}
-
-code {
-    background-color: black;
-    border-radius: 5%;
-}
-
 a {
     color: cyan;
     text-decoration: none;
     /* white-space: nowrap;
     font-size: 16px;
     padding-left: 8px; */
+}
+
+p {
+    display: flex;
+    width: 50%;
 }

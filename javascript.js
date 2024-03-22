@@ -1,6 +1,6 @@
 // comment
 
-console.log("hello")
+console.log("hello console")
 
 // declare variables and assign values
 let user = 'mo';
@@ -33,6 +33,7 @@ function updateBtn() {
     txt.textContent = "The machine is stopped.";
   }
 }
+
 // end button practice
 
 // Odin Project Fundamentals Part 3
